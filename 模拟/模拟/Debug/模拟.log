@@ -1,0 +1,6 @@
+﻿  test.cpp
+d:\代码\笔试题\模拟\模拟\test.cpp(10): warning C4018: “<”: 有符号/无符号不匹配
+d:\代码\笔试题\模拟\模拟\test.cpp(14): warning C4018: “<”: 有符号/无符号不匹配
+d:\代码\笔试题\模拟\模拟\test.cpp(15): warning C4018: “>=”: 有符号/无符号不匹配
+d:\代码\笔试题\模拟\模拟\test.cpp(25): warning C4715: “countString”: 不是所有的控件路径都返回值
+  模拟.vcxproj -> D:\代码\笔试题\模拟\Debug\模拟.exe
